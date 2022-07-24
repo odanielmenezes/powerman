@@ -5,7 +5,7 @@ const styled_header = styled.div`
     width: 100%;
     height: 70px;
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: center;
 
     img {
@@ -17,15 +17,21 @@ const styled_header = styled.div`
       align-items: center;
       gap: 18px;
       padding: 0;
-      margin: 0;
+      margin: 0 40px;
       list-style: none;
+
+      a.ant-anchor-link-title {
+        text-decoration: none;
+        color: #FFF;
+      }
     }
   }
   @media (max-width: 600px) {
     .Header {
-        ul {
-            display: none;
-        }
+      display: none;
+      ul {
+        display: none;
+      }
     }
   }
 `;
