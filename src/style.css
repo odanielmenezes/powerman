@@ -5,4 +5,9 @@ body {
     margin: 0;
     background-color: #000;
     color: #FFF;
+    overflow-x: hidden;
+}
+
+html {
+    width: 100vw;
 }
