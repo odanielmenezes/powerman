@@ -4,7 +4,7 @@ import ImgBG from "../../assets/city-background.jpg";
 const style_servicos = styled.div`
   .Servicos {
     width: 100vw;
-    height: 100vh;
+    height: 80vh;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -37,19 +37,26 @@ const style_servicos = styled.div`
     .Servicos {
       flex-direction: column;
       padding: 50px 0;
+      gap: 14px;
 
       .item01,
       .item02,
       .item03 {
-        width: 200px;
-        height: 200px;
-        border-radius: 50%;
+        width: 300px;
+        height: auto;
         display: flex;
         justify-content: center;
         flex-direction: column;
         align-items: center;
         p {
-          display: none;
+          font-size: 14px;
+          text-align: center;
+        }
+        h1 {
+          font-size: 26px;
+        }
+        svg {
+          font-size: 32px;
         }
       }
     }
@@ -59,9 +66,6 @@ const style_servicos = styled.div`
       .item02,
       .item03 {
         margin: 10px 0;
-        p {
-          display: none;
-        }
       }
     }
 `;

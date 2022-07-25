@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 const style_galeriaFotos = styled.div`
   .GaleriaFotos {
-    height: 100vh;
+    height: 100%;
     padding: 100px 0;
     display: flex;
     flex-direction: column;
@@ -22,7 +22,7 @@ const style_galeriaFotos = styled.div`
       flex-wrap: nowrap;
       border-radius: 5px;
       width: 600px;
-      height: 600px;
+      height: 100%;
 
       .imagens {
         width: 90vh;
@@ -53,13 +53,14 @@ const style_galeriaFotos = styled.div`
         width: 80vw;
       }
       .imagens {
+        width: 80vw !important;
         display: flex !important;
         flex-direction: column !important;
         justify-content: center !important;
         align-items: center;
         img {
           width: 300px;
-          height: 400px;
+          height: 420px;
         }
       }
     }

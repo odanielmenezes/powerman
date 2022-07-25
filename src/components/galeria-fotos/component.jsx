@@ -43,7 +43,7 @@ export function GaleriaFotos() {
   ];
   return (
     <Styled>
-      <div className="GaleriaFotos">
+      <div className="GaleriaFotos" id="fotos">
         <div className="title">
           <h1>Conheça alguns eventos realizados pela nossa equipe:</h1>
         </div>

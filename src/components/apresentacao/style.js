@@ -52,6 +52,7 @@ const styled_apresentacao = styled.div`
           .Apresentacao__Face span {
             display: none;
           }
+          
         }
       }
       h1 {
