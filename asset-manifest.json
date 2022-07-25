@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/powerman/static/css/main.41a4530f.css",
+    "main.js": "/powerman/static/js/main.845e98d5.js",
+    "static/media/homem02.png": "/powerman/static/media/homem02.ba4ffaf83a7811575fd0.png",
+    "static/media/mulher.png": "/powerman/static/media/mulher.19b12fc2be0e57dbfac2.png",
+    "static/media/city-background.jpg": "/powerman/static/media/city-background.ece3118d2ffae4fcc925.jpg",
+    "static/media/homem.png": "/powerman/static/media/homem.61e80af8efa443c3079f.png",
+    "static/media/fotos-05.jpg": "/powerman/static/media/fotos-05.44fdc7506b0217de6087.jpg",
+    "static/media/fotos-06.jpg": "/powerman/static/media/fotos-06.803d371d2a909cbff526.jpg",
+    "static/media/fotos-03.jpg": "/powerman/static/media/fotos-03.76440fd93bb9e451173b.jpg",
+    "static/media/fotos-07.jpg": "/powerman/static/media/fotos-07.2f43d8c8d2bde81bfc8d.jpg",
+    "static/media/foto-02.jpg": "/powerman/static/media/foto-02.2037fd191e85e78ede3a.jpg",
+    "static/media/fotos-04.jpg": "/powerman/static/media/fotos-04.4363581056b510515d68.jpg",
+    "static/media/foto-01.jpg": "/powerman/static/media/foto-01.f88fb52035dfc2efd8c2.jpg",
+    "static/media/fotos-08.jpg": "/powerman/static/media/fotos-08.b3294520ec662d34d7dc.jpg",
+    "static/media/logo_power.png": "/powerman/static/media/logo_power.9ae5583ae2d7084accb1.png",
+    "index.html": "/powerman/index.html",
+    "main.41a4530f.css.map": "/powerman/static/css/main.41a4530f.css.map",
+    "main.845e98d5.js.map": "/powerman/static/js/main.845e98d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41a4530f.css",
+    "static/js/main.845e98d5.js"
+  ]
+}
