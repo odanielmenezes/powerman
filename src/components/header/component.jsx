@@ -12,9 +12,9 @@ export function Header() {
           <div className="Header__ItemsMenu">
             <div className="Header__Mobile"></div>
             <ul className="Header__ListMenu">
-              <Link href="#Slider" title="Sobre nós"></Link>
-              <Link href="#Slider" title="Contato"></Link>
-              <Link href="#Slider" title="Nosso trabalho"></Link>
+              <Link className="Header__Links" href="#Slider" title="SOBRE NÓS"></Link>
+              <Link className="Header__Links" href="#servicos" title="SERVIÇOS"></Link>
+              <Link className="Header__Links" href="#fotos" title="FOTOS"></Link>
             </ul>
           </div>
         </div>
