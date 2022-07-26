@@ -65,11 +65,15 @@ export function GaleriaFotos() {
             className="mySwiper"
           > */}
           <div className="imagens">
-            {fotos.map((item) => (
-              // <SwiperSlide>
-              <img src={item.img} alt="fotos"></img>
-              // </SwiperSlide>
-            ))}
+              <img src={Foto01} alt="fotos"></img>
+              <img src={Foto02} alt="fotos"></img>
+              <img src={Foto03} alt="fotos"></img>
+              <img src={Foto04} alt="fotos"></img>
+              <img src={Foto05} alt="fotos"></img>
+              <img src={Foto06} alt="fotos"></img>
+              <img src={Foto07} alt="fotos"></img>
+              <img src={Foto08} alt="fotos"></img>
+
           </div>
           {/* </Swiper> */}
           {/* {fotos.map((item) => (

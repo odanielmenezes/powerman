@@ -26,13 +26,13 @@ export function Footer() {
               <span className="Footer__Text">WhatsApp</span>
             </div>
           </a>
-          <a href="https://www.facebook.com/cherryilumina">
+          {/* <a href="https://www.facebook.com/cherryilumina">
             <div className="Footer__Face">
               <FontAwesomeIcon className="Footer__Icon" icon={faFacebook} />
               <span className="Footer__Text">Facebook</span>
             </div>
-          </a>
-          <a href="https://www.instagram.com/cherryilumina/">
+          </a> */}
+          <a href="https://www.instagram.com/power.man16staff/">
             <div className="Footer__Insta">
               <FontAwesomeIcon className="Footer__Icon" icon={faInstagram} />
               <span className="Footer__Text">Instagram</span>
