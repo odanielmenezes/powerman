@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/powerman/static/css/main.41a4530f.css",
-    "main.js": "/powerman/static/js/main.845e98d5.js",
+    "main.js": "/powerman/static/js/main.8e349511.js",
     "static/media/homem02.png": "/powerman/static/media/homem02.ba4ffaf83a7811575fd0.png",
     "static/media/mulher.png": "/powerman/static/media/mulher.19b12fc2be0e57dbfac2.png",
     "static/media/city-background.jpg": "/powerman/static/media/city-background.ece3118d2ffae4fcc925.jpg",
     "static/media/homem.png": "/powerman/static/media/homem.61e80af8efa443c3079f.png",
-    "static/media/fotos-05.jpg": "/powerman/static/media/fotos-05.44fdc7506b0217de6087.jpg",
-    "static/media/fotos-06.jpg": "/powerman/static/media/fotos-06.803d371d2a909cbff526.jpg",
-    "static/media/fotos-03.jpg": "/powerman/static/media/fotos-03.76440fd93bb9e451173b.jpg",
-    "static/media/fotos-07.jpg": "/powerman/static/media/fotos-07.2f43d8c8d2bde81bfc8d.jpg",
-    "static/media/foto-02.jpg": "/powerman/static/media/foto-02.2037fd191e85e78ede3a.jpg",
-    "static/media/fotos-04.jpg": "/powerman/static/media/fotos-04.4363581056b510515d68.jpg",
-    "static/media/foto-01.jpg": "/powerman/static/media/foto-01.f88fb52035dfc2efd8c2.jpg",
-    "static/media/fotos-08.jpg": "/powerman/static/media/fotos-08.b3294520ec662d34d7dc.jpg",
+    "static/media/fotos-05.jpg": "/powerman/static/media/fotos-05.272dd0c8c8743d4d7464.jpg",
+    "static/media/fotos-06.jpg": "/powerman/static/media/fotos-06.f6781af0ee50fba39db1.jpg",
+    "static/media/fotos-03.jpg": "/powerman/static/media/fotos-03.89e2ee4bc2ee96dbd970.jpg",
+    "static/media/fotos-07.jpg": "/powerman/static/media/fotos-07.09f1263ab1b4ec7c25bc.jpg",
+    "static/media/fotos-04.jpg": "/powerman/static/media/fotos-04.383849a9b70a5200e15c.jpg",
+    "static/media/foto-02.jpg": "/powerman/static/media/foto-02.9209c368d6018eedf4a5.jpg",
+    "static/media/fotos-08.jpg": "/powerman/static/media/fotos-08.1f2be25d6cefb7167fa5.jpg",
+    "static/media/foto-01.jpg": "/powerman/static/media/foto-01.a25e1b4fec8de1138084.jpg",
     "static/media/logo_power.png": "/powerman/static/media/logo_power.9ae5583ae2d7084accb1.png",
     "index.html": "/powerman/index.html",
     "main.41a4530f.css.map": "/powerman/static/css/main.41a4530f.css.map",
-    "main.845e98d5.js.map": "/powerman/static/js/main.845e98d5.js.map"
+    "main.8e349511.js.map": "/powerman/static/js/main.8e349511.js.map"
   },
   "entrypoints": [
     "static/css/main.41a4530f.css",
-    "static/js/main.845e98d5.js"
+    "static/js/main.8e349511.js"
   ]
 }
