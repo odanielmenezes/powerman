@@ -17,24 +17,17 @@ const style_galeriaFotos = styled.div`
     }
 
     .GaleriaFotos__Fotos {
-      display: flex;
-      justify-content: center;
-      flex-wrap: nowrap;
-      border-radius: 5px;
-      width: 600px;
-      height: 100%;
-
       .imagens {
-        width: 90vh;
-        display: grid;
-        grid-template-columns: 40% 40% 40%;
-        gap: 30px 110px;
-        justify-content: space-around;
+        width: 90vw;
+        display: flex;
+        justify-content: center;
+        gap: 22px;
+        flex-wrap: wrap;
       }
       img {
         border-radius: 5px;
-        width: 425px;
-        height: 600px;
+        width: 325px;
+        height: 440px;
         box-shadow: 4px 4px 6px rgba(255, 255, 255, 0.3);
       }
     }
@@ -44,7 +37,6 @@ const style_galeriaFotos = styled.div`
       height: 100%;
 
       .GaleriaFotos__Fotos {
-        width: 100vw !important;
         height: 100% !important;
       }
       h1 {

@@ -24,19 +24,22 @@ export function ApesentacaoInfos() {
                 Acompanhe nosso trabalho:
               </small> */}
             </div>
+            <div className="Apresentacao__Email">
+              <span>atendimento@powermanservicos.com</span>
+            </div>
             <div className="Apresentacao__Icons">
               <div className="Apresentacao__Insta">
                 <FontAwesomeIcon icon={faInstagram} />
-                <a href="https://www.instagram.com/cherryilumina/">
+                <a href="https://www.instagram.com/power.man16staff/">
                   <span>INSTAGRAM</span>
                 </a>
               </div>
-              <div className="Apresentacao__Face">
+              {/* <div className="Apresentacao__Face">
                 <FontAwesomeIcon icon={faFacebook} />
                 <a href="https://www.facebook.com/cherryilumina">
                   <span>FACEBOOK</span>
                 </a>
-              </div>
+              </div> */}
               <div className="Apresentacao__Whats">
                 <FontAwesomeIcon icon={faWhatsapp} />
                 <a href="https://wa.link/aapswt">

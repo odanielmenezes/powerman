@@ -53,7 +53,7 @@ const styled_footer = styled.div`
     }
 
     img {
-      width: 160px;
+      width: 100px;
       border: 5px solid #ff9979;
       cursor: pointer;
     }

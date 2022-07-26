@@ -4,7 +4,8 @@ import ImgBG from "../../assets/city-background.jpg";
 const style_servicos = styled.div`
   .Servicos {
     width: 100vw;
-    height: 80vh;
+    height: 100%;
+    min-height: 100vh;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -16,7 +17,8 @@ const style_servicos = styled.div`
     .item01,
     .item02,
     .item03 {
-      width: 350px;
+      width: 300px;
+      height: 286px;
       text-align: center;
       background-color: rgba(0, 0, 0, 0.6);
       padding: 20px;

@@ -14,7 +14,7 @@ const styled_apresentacao = styled.div`
       align-items: center;
       gap: 14px;
 
-      a{
+      a {
         text-decoration: none;
         color: #fff;
       }
@@ -32,6 +32,11 @@ const styled_apresentacao = styled.div`
         color: #ff9979;
         transition: 0.3s;
       }
+      .Apresentacao__Email {
+        display: flex;
+        justify-content: center;
+        margin: 5px 0 15px 0;
+      }
       .Apresentacao__RedesSociais {
         width: 400px;
         .Apresentacao__Icons {
@@ -45,14 +50,13 @@ const styled_apresentacao = styled.div`
             display: flex;
             flex-direction: column;
             align-items: center;
-            margin: -10px 0;
+            margin-bottom: -40px !important;
           }
           .Apresentacao__Insta span,
           .Apresentacao__Whats span,
           .Apresentacao__Face span {
             display: none;
           }
-          
         }
       }
       h1 {
@@ -74,6 +78,10 @@ const styled_apresentacao = styled.div`
       .Apresentacao__MainInfos {
         width: 100vw !important;
 
+        .Apresentacao__Email {
+          margin: -20px 0 15px 0;
+        }
+
         .Apresentacao__RedesSociais {
           display: flex;
           flex-direction: column;
@@ -85,17 +93,14 @@ const styled_apresentacao = styled.div`
             justify-content: center;
 
             .Apresentacao__Insta,
-            .Apresentacao__Whats,
-            .Apresentacao__Face {
+            .Apresentacao__Whats {
               display: flex;
               flex-direction: row !important;
               align-items: center;
               justify-content: center;
-              margin: -10px 0;
             }
             .Apresentacao__Insta span,
-            .Apresentacao__Whats span,
-            .Apresentacao__Face span {
+            .Apresentacao__Whats span {
               display: block !important;
             }
           }

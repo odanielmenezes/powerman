@@ -71,10 +71,10 @@ export function SliderImages() {
                   Somos a <b>POWER MAN</b> <FontAwesomeIcon icon={faRocket} />
                 </h1>
                 <p>
-                  Somos uma equipe especializada de alta qualidade que
-                  proporcionamos segurança e comprometimento com nossos
-                  clientes, para que você e sua equipe se preocupe apenas com o
-                  planejamento de seus eventos. A mão de obra é com a gente!
+                  A empresa Power Man atua no segmento de serviços para eventos
+                  há 5 anos. Somos especialistas em oferecer toda a cobertura
+                  necessária de mão de obra para eventos. Nosso diferencial está
+                  em agilidade e confiabilidade. Tanto que já atendemos um numero considerável de clientes e temos 100% de satisfação no mercado.
                 </p>
                 <div className="SliderImages__ContentMobile03">
                   <img src={Foto03} alt="" />
